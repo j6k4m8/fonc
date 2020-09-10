@@ -1,6 +1,11 @@
 # fonc
 
-<small>multiline inline anonymous functions in python</small>
+[![PyPI](https://img.shields.io/pypi/v/fonc?style=for-the-badge)](https://pypi.org/project/fonc)
+[![not good](https://img.shields.io/badge/it%20is%20bad-%F0%9F%91%8E-blue?style=for-the-badge)](https://github.com/j6k4m8/fonc)
+
+multiline inline anonymous functions in python
+
+---
 
 ```python
 >>> from fonc import fonc
