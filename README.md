@@ -5,6 +5,11 @@
 
 multiline inline anonymous functions in python
 
+```shell
+pip install fonc
+# rejoice
+```
+
 ---
 
 ```python
